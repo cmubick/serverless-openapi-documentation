@@ -1,7 +1,7 @@
 # Serverless OpenAPI Documentation Plugin
 
-[![NPM](https://img.shields.io/npm/v/@conqa/serverless-openapi-documentation.svg)](https://npmjs.org/packages/@conqa/serverless-openapi-documentation/)
-[![Travis CI](https://img.shields.io/travis/conqa/serverless-openapi-documentation.svg)](https://travis-ci.org/conqa/serverless-openapi-documentation)
+[![NPM](https://img.shields.io/npm/v/@cmubick/serverless-openapi-documentation.svg)](https://npmjs.org/packages/@cmubick/serverless-openapi-documentation/)
+[![Travis CI](https://img.shields.io/travis/cmubick/serverless-openapi-documentation.svg)](https://travis-ci.org/cmubick/serverless-openapi-documentation)
 
 Generates [**OpenAPI 3.0.0**](https://github.com/OAI/OpenAPI-Specification/blob/3.0.0/versions/3.0.0.md) documentation from serverless configuration files. OpenAPI is formerly known as Swagger. The configuration is inspired by the format used in [serverless-aws-documentation](https://www.npmjs.com/package/serverless-aws-documentation).
 
@@ -318,19 +318,19 @@ To add this plugin to your package.json:
 
 **Using npm:**
 ```bash
-npm install @conqa/serverless-openapi-documentation --save-dev
+npm install @cmubick/serverless-openapi-documentation --save-dev
 ```
 
 **Using Yarn:**
 ```bash
-yarn add @conqa/serverless-openapi-documentation --dev
+yarn add @cmubick/serverless-openapi-documentation --dev
 ```
 
 Next you need to add the plugin to the `plugins` section of your `serverless.yml` file.
 
 ```yml
 plugins:
-  - @conqa/serverless-openapi-documentation
+  - @cmubick/serverless-openapi-documentation
 ```
 
 You can confirm the plugin is correctly installed by running:
