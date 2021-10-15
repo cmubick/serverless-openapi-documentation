@@ -130,7 +130,7 @@ export class DefinitionGenerator {
     documentationConfig
   ): Operation {
     const operationObj: Operation = {
-      operationId: documentationConfig.summary.replaceAll(" ", "")
+      operationId: documentationConfig.summary.split(" ").join("")
     };
 
     if (documentationConfig.summary) {
