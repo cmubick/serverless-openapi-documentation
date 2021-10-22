@@ -7,7 +7,21 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [1.1.1][] - 2021-05-04
+## [1.0.7] - 2019-05-03
+### Added
+- support for spaces in event definition
+
+## [1.0.6] - 2019-05-03
+
+## [1.0.5] - 2019-05-03
+
+## [1.0.4] - 2019-05-03
+
+## [1.0.3] - 2019-05-03
+
+## [1.1.2] - 2019-05-03
+
+## [1.1.1] - 2021-05-04
 
 ## [1.1.0] - 2019-05-09
 ### Added
