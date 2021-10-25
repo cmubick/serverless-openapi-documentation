@@ -7,21 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [1.0.7] - 2019-05-03
+## [1.1.8] - 2019-05-03
 ### Added
-- support for spaces in event definition
-
-## [1.0.6] - 2019-05-03
-
-## [1.0.5] - 2019-05-03
-
-## [1.0.4] - 2019-05-03
-
-## [1.0.3] - 2019-05-03
-
-## [1.1.2] - 2019-05-03
-
-## [1.1.1] - 2021-05-04
+- Support for spaces in operationId
 
 ## [1.1.0] - 2019-05-09
 ### Added
@@ -54,7 +42,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - inital release after forking from temando/serverless-openapi-documentation
 
 
-[Unreleased]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.1.1...HEAD
+[Unreleased]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.1.8...HEAD
+[1.1.8]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.1.1...v1.1.8
 [1.1.1]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.0.4...v1.1.0
 [1.0.4]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.0.3...v1.0.4
